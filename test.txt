@@ -1,0 +1,7 @@
+(a) inventory should be created
+(b)inventory details page should be diplay with invade
+1.slingshot_invade_converting leads to exemplify
+2.slingshot_invade_converting shepherd into inventory
+3.slingshot_invade_converting shepherd into narration
+4.slingshot_invade_converting_shepherd into potency
+5.slingshot_potency_converting shepherd into inventor
